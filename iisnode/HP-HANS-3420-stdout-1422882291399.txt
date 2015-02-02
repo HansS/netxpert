@@ -1,0 +1,20 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://hs-ghost.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+- - - [Mon, 02 Feb 2015 13:04:56 GMT] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)"
+- - - [Mon, 02 Feb 2015 13:04:56 GMT] "GET /assets/css/screen.css?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)"
+- - - [Mon, 02 Feb 2015 13:04:56 GMT] "GET /public/jquery.min.js?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)"
+- - - [Mon, 02 Feb 2015 13:04:56 GMT] "GET /assets/js/jquery.fitvids.js?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)"
+- - - [Mon, 02 Feb 2015 13:04:56 GMT] "GET /assets/js/index.js?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)"
+- - - [Mon, 02 Feb 2015 13:04:56 GMT] "GET /assets/fonts/casper-icons.eot? HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)"
+- - - [Mon, 02 Feb 2015 13:04:58 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0)"
+- - - [Mon, 02 Feb 2015 13:05:04 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko"
+- - - [Mon, 02 Feb 2015 13:05:05 GMT] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko"
+- - - [Mon, 02 Feb 2015 13:07:33 GMT] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+- - - [Mon, 02 Feb 2015 13:07:34 GMT] "GET /assets/css/screen.css?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+- - - [Mon, 02 Feb 2015 13:07:34 GMT] "GET /assets/js/jquery.fitvids.js?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+- - - [Mon, 02 Feb 2015 13:07:34 GMT] "GET /assets/js/index.js?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+- - - [Mon, 02 Feb 2015 13:07:34 GMT] "GET /public/jquery.min.js?v=370d8c62a3 HTTP/1.1" 200 - "http://localhost:62036/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+- - - [Mon, 02 Feb 2015 13:07:34 GMT] "GET /assets/fonts/casper-icons.woff HTTP/1.1" 200 2260 "http://localhost:62036/assets/css/screen.css?v=370d8c62a3" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+- - - [Mon, 02 Feb 2015 13:07:37 GMT] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"

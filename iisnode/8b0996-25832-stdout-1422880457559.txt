@@ -1,0 +1,29 @@
+[36mMigrations[39m[36m:[39m [36mDatabase initialisation required for version 003[39m
+[36mMigrations[39m[36m:[39m [36mCreating tables...[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: posts[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: users[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: roles[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: roles_users[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: permissions[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: permissions_users[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: permissions_roles[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: permissions_apps[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: settings[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: tags[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: posts_tags[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: apps[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: app_settings[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: app_fields[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: clients[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: accesstokens[39m
+[36mMigrations[39m[36m:[39m [36mCreating table: refreshtokens[39m
+[36mMigrations[39m[36m:[39m [36mPopulating fixtures[39m
+[36mMigrations[39m[36m:[39m [36mPopulating permissions[39m
+[36mMigrations[39m[36m:[39m [36mCreating owner[39m
+[36mMigrations[39m[36m:[39m [36mPopulating default settings[39m
+[36mMigrations[39m[36m:[39m [36mComplete[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://hs-ghost.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+188.154.4.100:51166 - - [Mon, 02 Feb 2015 12:34:38 GMT] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+188.154.4.100:51306 - - [Mon, 02 Feb 2015 12:34:38 GMT] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
