@@ -9,7 +9,7 @@ config = {
     // ### Development **(default)**
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
-        url: 'http://hs-ghost.azurewebsites.net',
+        url: 'http://netxpert.azurewebsites.net/',
 
         // Mail config
         // Visit http://support.ghost.org/mail for instructions
