@@ -47,7 +47,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://hs-ghost.azurewebsites.net',
+        url: 'netxpert.azurewebsites.net',
         mail: {
             transport: 'SMTP',
             options: {
